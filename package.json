@@ -1,0 +1,23 @@
+{
+  "name": "team_report_generator",
+  "version": "1.0.0",
+  "description": "For UNH Bootcamp homework. Generates a team report.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanhalupczynski/team_report_generator.git"
+  },
+  "author": "Sean Halupczynski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanhalupczynski/team_report_generator/issues"
+  },
+  "homepage": "https://github.com/seanhalupczynski/team_report_generator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "validator": "^12.1.0"
+  }
+}
